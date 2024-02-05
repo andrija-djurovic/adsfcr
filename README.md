@@ -13,3 +13,6 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Consequences of Heteroscedasticity for OLS Regression](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/heteroscedasticity.pdf)
 - [Consequences of Multicollinearity for OLS Regression](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/multicollinearity.pdf)
 - [Consequences of Autocorrelation for OLS Regression](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/autocorrelation.pdf)
+- [Power Play: Probability of Default Predictive Ability Testing](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/statistical_power_of_pd_pp_tests.pdf)
+- [Nested Dummy Encoding](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/nested_dummy_encoding.pdf)
+- [Marginal Information Value](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/marginal_information_value.pdf)
