@@ -13,7 +13,7 @@ The repository and book will encompass practical examples utilizing both `R` and
 
 Below are links providing an overview of the repository's main topics, which include summaries from the book and insights gleaned from practical experience.
 
-- [Consequences of Violating the Normality Assumption for OLS Regression](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/normality.pdf)
+- [Consequences of Violating the Normality Assumption for OLS Regression (pdf, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/normality.pdf)
 - [Consequences of Heteroscedasticity for OLS Regression](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/heteroscedasticity.pdf)
 - [Consequences of Multicollinearity for OLS Regression](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/multicollinearity.pdf)
 - [Consequences of Autocorrelation for OLS Regression](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/autocorrelation.pdf)
