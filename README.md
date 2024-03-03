@@ -13,6 +13,10 @@ The repository and book will encompass practical examples utilizing both `R` and
 
 Below are links providing an overview of the repository's main topics, which include summaries from the book and insights gleaned from practical experience.
 
+<b>Effective interest rate</b>:
+- [Effective interest rate (html, `R` & `Python` code)](https://andrija-djurovic.github.io/adsfcr/effective_interest_rate/eir.html)
+- [Effective interest rate (pdf, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/effective_interest_rate/eir.pdf)
+
 <b>Loan repayment plan</b>:
 - [Loan repayment plan (html, `R` & `Python` code)](https://andrija-djurovic.github.io/adsfcr/loan_repayment_plan/lrp.html)
 - [Loan repayment plan (pdf, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/loan_repayment_plan/lrp.pdf)
