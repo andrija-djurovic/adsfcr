@@ -215,7 +215,7 @@ sum(rep(annuity, maturity) / cumprod(1 + rep(ir.m, maturity)))</code></pre>
 <pre class="r"><code>#optimization function 
 eir.opt &lt;- function(amount, annuity, maturity, ir, cost) {
       #amount - loan amount
-      #annuinty - annuity
+      #annuity - annuity
       #ir - effective interest rate (monthly) 
       #cost - initial cost
       
@@ -267,9 +267,19 @@ np.cumprod(1 + np.repeat(ir_m, maturity)))</code></pre>
 <pre><code>## 9999.999999999876</code></pre>
 <pre class="python"><code>#optimization function
 def eir_opt(ir, amount, annuity, maturity, cost):
+    #amount - loan amount
+    #annuity - annuity
+    #ir - effective interest rate (monthly) 
+    #cost - initial cost
+
+    #cash flow
     cf = np.repeat(annuity, maturity)
+    #discounted cash flow
     df = np.cumprod(1 + np.repeat(ir, maturity))
-    return np.sum(cf / df) - (amount - cost)
+    #optimization value
+    opt_array = np.sum(cf / df) - (amount - cost)
+
+    return opt_array
 
 #calculate the effective interest rate
 eir = root_scalar(f = eir_opt, 
