@@ -15,7 +15,7 @@ Below are links providing an overview of the repository's main topics, which inc
 
 <b>Measuring concentration risk</b>:
 - [Simulation dataset](https://raw.githubusercontent.com/andrija-djurovic/adsfcr/main/concentration_risk/db.csv)
-- [Measuring concentration risk - a partial portfolio approach (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/concentration_risk/cr.pdf)
+- [Measuring concentration risk - a partial portfolio approach (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/concentration_risk/cr.pdf)
 
 <b>Effective interest rate</b>:
 - [Effective interest rate (html, `R` & `Python` code)](https://andrija-djurovic.github.io/adsfcr/effective_interest_rate/eir.html)
