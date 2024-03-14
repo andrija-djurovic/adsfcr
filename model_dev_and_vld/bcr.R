@@ -46,7 +46,7 @@ ss <- function(pd, n, k, theta, rho, T) {
 return(lh)
 }
 
-#likelihood of observing no more than r defaults out of n obligors
+#likelihood of observing no more than k defaults out of n obligors
 #numerical solution
 #binom.cum <-  function (n, p, k) {
 #      #initiate bc
