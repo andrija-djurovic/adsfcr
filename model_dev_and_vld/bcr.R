@@ -31,8 +31,8 @@ ss <- function(pd, n, k, theta, rho, T) {
       z[1] <- rnorm(1)
       #correlated systemic factor
       if    (T > 1) {
-            for   (j in 2:T) {
-                  z[j] <- theta * z[j-1] + sqrt(1 - theta^2) * rnorm(1)
+            for   (i in 2:T) {
+                  z[i] <- theta * z[i-1] + sqrt(1 - theta^2) * rnorm(1)
                   }
             }
       #conditional pd
@@ -52,9 +52,9 @@ return(lh)
 #      #initiate bc
 #      bc <- 0
 #      #P(x <= k)
-#      for   (j in 0:k) {
-#            bc <-  bc + choose(n = n, k = j) * (p^j) * ((1 - p)^(n - j))
-#	      }
+#      for   (i in 0:k) {
+#            bc <-  bc + choose(n = n, k = i) * (p^i) * ((1 - p)^(n - i))
+#	     }
 #return(bc)
 #}
 #analytical solution

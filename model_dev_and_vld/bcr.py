@@ -22,14 +22,15 @@ def opt_f(pd, n, k, theta, rho, T, cl, N):
     dev = cl_sim - cl
     return dev
 
+#single simulation
 def ss(pd, n, k, theta, rho, T):
     #systemic factor
     z = np.empty(T)
     z[0] = np.random.normal()
     #correlated systemic factor
     if T > 1:
-        for j in range(1, T):
-            z[j] = theta * z[j-1] + np.sqrt(1 - theta**2) * np.random.normal()
+        for i in range(1, T):
+            z[i] = theta * z[i-1] + np.sqrt(1 - theta**2) * np.random.normal()
     #conditional pd
     pdc = (norm.ppf(pd) - z * np.sqrt(rho)) / np.sqrt(1 - rho)
     #cumulative probability of default
@@ -47,8 +48,8 @@ def binom_cum(n, p, k):
     #initialize bc
     bc = 0
     # P(x <= k)
-    for j in range(k + 1):
-        bc += math.comb(n, j) * (p ** j) * ((1 - p) ** (n - j))
+    for i in range(k + 1):
+        bc += math.comb(n, i) * (p ** i) * ((1 - p) ** (n - i))
     return bc
 '''
 #analytical solution
