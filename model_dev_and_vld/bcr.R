@@ -13,12 +13,12 @@ tbl.3 <- read.xlsx(xlsxFile = fp,
 opt.f <- function(pd, n, k, theta, rho, T, cl, N) {
       #simulated confidence interval
       cl.sim = 1 - mean(replicate(n = N, 
-                                  ss(pd = pd, 
-                                     n = n, 
-                                     k = k, 
-                                     theta = theta, 
-                                     rho = rho, 
-                                     T = T)))
+                                  expr = ss(pd = pd, 
+                                            n = n, 
+                                            k = k, 
+                                            theta = theta, 
+                                            rho = rho, 
+                                            T = T)))
       #simulation error
       dev <- cl.sim - cl
 return(dev)
@@ -28,11 +28,11 @@ return(dev)
 ss <- function(pd, n, k, theta, rho, T) {
       #systemic factor
       z <- rep(NA, T)
-      z[1] <- rnorm(1)
+      z[1] <- rnorm(n = 1)
       #correlated systemic factor
       if    (T > 1) {
             for   (i in 2:T) {
-                  z[i] <- theta * z[i-1] + sqrt(1 - theta^2) * rnorm(1)
+                  z[i] <- theta * z[i-1] + sqrt(1 - theta^2) * rnorm(n = 1)
                   }
             }
       #conditional pd
