@@ -7,11 +7,11 @@ from scipy.optimize import root_scalar
 #data import
 fp = "https://andrija-djurovic.github.io/adsfcr/model_dev_and_vld/BCR_TABLES.xlsx"
 tbl_1 = pd.read_excel(io = fp, 
-                      sheet_name="Table1")
+                      sheet_name = "Table1")
 tbl_2 = pd.read_excel(io = fp, 
-                      sheet_name="Table2")
+                      sheet_name = "Table2")
 tbl_3 = pd.read_excel(io = fp, 
-                      sheet_name="Table3")
+                      sheet_name = "Table3")
 
 
 #optimization function 
@@ -32,7 +32,7 @@ def ss(pd, n, k, theta, rho, T):
         for i in range(1, T):
             z[i] = theta * z[i-1] + np.sqrt(1 - theta**2) * np.random.normal()
     #conditional pd
-    pdc = (norm.ppf(pd) - z * np.sqrt(rho)) / np.sqrt(1 - rho)
+    pdc = (norm.ppf(q = pd) - z * np.sqrt(rho)) / np.sqrt(1 - rho)
     #cumulative probability of default
     pd_c = 1 - np.prod(1 - norm.cdf(x = pdc))
     #likelihood
