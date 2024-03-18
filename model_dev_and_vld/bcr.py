@@ -13,7 +13,6 @@ tbl_2 = pd.read_excel(io = fp,
 tbl_3 = pd.read_excel(io = fp, 
                       sheet_name = "Table3")
 
-
 #optimization function 
 def opt_f(pd, n, k, theta, rho, T, cl, N):
     #simulated confidence interval
