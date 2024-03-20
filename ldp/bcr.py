@@ -5,7 +5,7 @@ from scipy.stats import beta, norm
 from scipy.optimize import root_scalar
 
 #data import
-fp = "https://andrija-djurovic.github.io/adsfcr/model_dev_and_vld/BCR_TABLES.xlsx"
+fp = "https://andrija-djurovic.github.io/adsfcr/ldp/BCR_TABLES.xlsx"
 tbl_1 = pd.read_excel(io = fp, 
                       sheet_name = "Table1")
 tbl_2 = pd.read_excel(io = fp, 

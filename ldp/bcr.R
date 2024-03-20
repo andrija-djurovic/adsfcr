@@ -1,7 +1,7 @@
 library(openxlsx)
 
 #data import
-fp <- "https://andrija-djurovic.github.io/adsfcr/model_dev_and_vld/BCR_TABLES.xlsx"
+fp <- "https://andrija-djurovic.github.io/adsfcr/ldp/BCR_TABLES.xlsx"
 tbl.1 <- read.xlsx(xlsxFile = fp, 
                    sheet = "Table1")
 tbl.2 <- read.xlsx(xlsxFile = fp, 
