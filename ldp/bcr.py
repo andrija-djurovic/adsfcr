@@ -32,7 +32,7 @@ def ss(pd, n, k, theta, rho, T):
             z[i] = theta * z[i-1] + np.sqrt(1 - theta**2) * np.random.normal()
     #conditional pd
     pdc = (norm.ppf(q = pd) - z * np.sqrt(rho)) / np.sqrt(1 - rho)
-    #cumulative probability of default
+    #cumulative pd
     pd_c = 1 - np.prod(1 - norm.cdf(x = pdc))
     #likelihood
     lh = binom_cum(n = n, 
