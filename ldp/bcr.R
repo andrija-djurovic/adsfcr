@@ -37,7 +37,7 @@ ss <- function(pd, n, k, theta, rho, T) {
             }
       #conditional pd
       pdc <- (qnorm(p = pd) - z*sqrt(rho)) / sqrt(1 - rho)
-      #cumulative probability of default
+      #cumulative pd
       pd.c <- 1 - prod(1 - pnorm(q = pdc))
       #likelihood 
       lh <- binom.cum(n = n, 
