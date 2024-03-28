@@ -17,7 +17,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Conservative Estimation of Default Probabilities - BCR Method (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/bcr.pdf)
     - [Simulation dataset](https://andrija-djurovic.github.io/adsfcr/ldp/BCR_TABLES.xlsx)
     - [R code](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/bcr.R)
-    - [Python code](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/bcr.py).
+    - [Python code](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/bcr.py)
 
 <b>Measuring concentration risk</b>:
 - [Measuring concentration risk - a partial portfolio approach (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/concentration_risk/cr.pdf)
