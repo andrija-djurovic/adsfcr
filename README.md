@@ -13,7 +13,7 @@ The repository and book will encompass practical examples utilizing both `R` and
 
 Below are links providing an overview of the repository's main topics, which include summaries from the book and insights gleaned from practical experience.
 
-<b>The Vasicek Distribution</b>:
+<b>The Vasicek Distribution (Probability of Default Models)</b>:
 - [The functional form and parameters estimation methods (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/vasicek_distribution/vasicek_distribution.pdf)
 - [Shiny application for estimating the parameters of the Vasicek distribution](https://andrijadj.shinyapps.io/vasicek_distribution/)
 - [Asset Correlation Estimation - Maximum Likelihood: Analytical vs Numerical Optimization Approach (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/vasicek_distribution/imm_vs_mle.pdf)
