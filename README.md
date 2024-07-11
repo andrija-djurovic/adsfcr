@@ -14,8 +14,8 @@ The repository and book will encompass practical examples utilizing both `R` and
 Below are links providing an overview of the repository's main topics, which include summaries from the book and insights gleaned from practical experience.
 
 <b>The Vasicek Distribution (Probability of Default Models)</b>:
-- [The functional form and parameters estimation methods (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/vasicek_distribution/vasicek_distribution.pdf)
-- [Shiny application for estimating the parameters of the Vasicek distribution](https://andrijadj.shinyapps.io/vasicek_distribution/)
+- [The Functional Form and Parameters Estimation Methods (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/vasicek_distribution/vasicek_distribution.pdf)
+- [Shiny Application for Estimating the Parameters of the Vasicek Distribution](https://andrijadj.shinyapps.io/vasicek_distribution/)
 - [Asset Correlation Estimation - Maximum Likelihood: Analytical vs Numerical Optimization Approach (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/vasicek_distribution/imm_vs_mle.pdf)
 - [The Logistic Vasicek Distribution (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/vasicek_distribution/logistic_vasicek_distribution.pdf)
 - [Asset Correlation Estimation - Maximum Likelihood: Normal vs Logistic Vasicek Distribution (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/vasicek_distribution/rho_normal_vs_logistic_vasicek.pdf)
@@ -36,7 +36,7 @@ Below are links providing an overview of the repository's main topics, which inc
     - [Python code (data & functions)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/bcr.py)
 
 <b>Measuring Concentration Risk</b>:
-- [Measuring Concentration Risk - a partial portfolio approach (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/concentration_risk/cr.pdf)
+- [Measuring Concentration Risk - A Partial Portfolio Approach (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/concentration_risk/cr.pdf)
 - [Simulation dataset](https://raw.githubusercontent.com/andrija-djurovic/adsfcr/main/concentration_risk/db.csv)
   
 
