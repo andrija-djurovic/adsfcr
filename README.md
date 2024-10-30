@@ -51,6 +51,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Loan Repayment Plan (pdf, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/loan_repayment_plan/lrp.pdf)
 
 <b>Model Development and Validation</b>:
+- [IRB PD Periodic Model Validation - Quantitative Testing Procedures? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/periodic_pd_vld.pdf)
 - [Validation of Credit Risk Models - Does the P-value Provides Sufficient Insight? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/vld_and_p_value.pdf)
 - [Validation of Credit Risk Models - On Favorable P-values in Statistical Tests? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/favorable_p_value.pdf)
 - [Hypothesis Testing in Credit Risk - A Visual Approach for Deeper Understanding (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/visual_support_for_ht.pdf)
