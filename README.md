@@ -42,6 +42,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Simulation dataset](https://raw.githubusercontent.com/andrija-djurovic/adsfcr/main/concentration_risk/db.csv)
 
 <b>Model Risk Management</b>:
+- [Model Shift and Model Risk Management (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/ms_mrm.pdf)
 - [The Economic Value of Credit Rating Systems - Quantifying the Benefits of Improving an Internal Credit Rating System (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/evrs.pdf)
 - [Heterogeneity Shortfalls in IRB Credit Risk Models - Risk-Weighted Assets Impact Analysis (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/heterogeneity_shortfall_and_rwa_impact_analysis.pdf)
   
