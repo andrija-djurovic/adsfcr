@@ -82,6 +82,9 @@ mm.m <- function(db, target, rf, data.shift, encoding, woe.tbl, lr.i) {
       Yplus <- diag(y[, "1"])
       #diagonal matrix for y(a,-1)                                                  
       Yminus <- diag(y[, "0"])
+      #adjust for zeros
+      diag(Yplus)[diag(Yplus) == 0] <- 1e-10
+      diag(Yminus)[diag(Yminus) == 0] <- 1e-10 
       #diagonal matrix of modeled odds ratios
       Z <- Yplus %*% solve(Yminus)    
       #identity matrix                  
