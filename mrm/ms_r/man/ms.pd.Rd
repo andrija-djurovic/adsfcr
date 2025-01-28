@@ -27,6 +27,10 @@ ms.pd(
 \item{encoding}{Encoding method with the available options: \code{dummy} and \code{WoE}.}
 
 \item{method}{Model shift method with the available options: \code{mm} (matrix multiplication), \code{wbr} (weighted binomial regression), \code{wfr} (weighted fractional regression).}
+
+\item{woe.tbl}{The manually created WoE table. A data frame with three columns: \code{"rf"}, \code{"bin"}, and \code{"woe"}. The default value is \code{NULL}.}
+
+\item{lr.i}{The \code{glm} object of the initial model. The default is \code{NULL}. If supplied, the function uses the given model instead of estimating it.}
 }
 \value{
 For the selected method \code{mm}, the command \code{ms.pd} returns: model shift (\code{ms}) and summary table (\code{db.s}). For the selected methods \code{wbr} and \code{wfr}, the command \code{ms.pd} returns: initial model (\code{lr.i}), simulated model (\code{lr.s}), model shift (\code{ms}), and summary table (\code{db.s}).
