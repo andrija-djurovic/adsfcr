@@ -7,6 +7,8 @@
 #'@param data.shift A data frame with column names from \code{rf}, and with the last column named \code{n}.
 #'@param encoding Encoding method with the available options: `dummy` and `WoE`.
 #'@param method Model shift method with the available options: \code{mm} (matrix multiplication), \code{wbr} (weighted binomial regression), \code{wfr} (weighted fractional regression).
+#'@param woe.tbl The manually created WoE table. A data frame with three columns: `"rf"`, `"bin"`, and `"woe"`. The default value is `NULL`.
+#'@param lr.i The `glm` object of the initial model. The default is `NULL`. If supplied, the function uses the given model instead of estimating it.
 #'@return For the selected method \code{mm}, the command \code{ms.pd} returns: model shift (\code{ms}) and summary table (\code{db.s}). For the selected methods \code{wbr} and \code{wfr}, the command \code{ms.pd} returns: initial model (\code{lr.i}), simulated model (\code{lr.s}), model shift (\code{ms}), and summary table (\code{db.s}).
 #'@import dplyr
 #'@export
