@@ -77,5 +77,3 @@ ldp.pt <- function(n, k, theta, rho, T, cl, N, seed) {
             }
 return(res)
 }
-
-
