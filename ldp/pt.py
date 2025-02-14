@@ -58,4 +58,3 @@ def ldp_pt(n, k, theta, rho, T, cl, N, seed):
                         a = 0,
                         b = 1)
     return res
-
