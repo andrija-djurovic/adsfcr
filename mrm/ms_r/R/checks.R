@@ -5,7 +5,6 @@ checks.init <- function(db, target, rf, data.shift, encoding, method, woe.tbl) {
       #object types
       cond.01 <- !is.data.frame(db) | !is.data.frame(data.shift)
       #missing values
-      #missing values
       db.mv <- any(colSums(is.na(db)) > 0)
       ds.mv <- any(colSums(is.na(data.shift)) > 0)
       cond.02 <- db.mv | ds.mv
