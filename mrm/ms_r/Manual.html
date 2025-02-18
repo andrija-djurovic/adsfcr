@@ -460,9 +460,9 @@ names(res.mm)</code></pre>
 <pre class="r"><code>#parameters shift
 res.mm[[&quot;ms&quot;]]</code></pre>
 <pre><code>##         (Intercept)   Account_Balance02   Account_Balance03   Account_Balance04 
-##         0.014977152         0.005604455        -0.005485861         0.004087598 
+##         0.017741976         0.005728255        -0.005506810         0.004157416 
 ##   Maturity02 [8,16)  Maturity03 [16,36)  Maturity04 [36,45) Maturity05 [45,Inf) 
-##        -0.002716596        -0.015953224        -0.015774832        -0.092029407</code></pre>
+##        -0.006024249        -0.018819898        -0.017270404        -0.095877830</code></pre>
 <p>To compare the results of the approximate matrix multiplication method with the exact methods (<code>&quot;wbr&quot;</code>, <code>&quot;wfr&quot;</code>) for the same simulation design, practitioners can run the code below. Unlike the <code>&quot;mm&quot;</code> method, these two methods return a list of four elements: the initial <code>glm</code> model object (<code>lr.i</code>), the simulated <code>glm</code> model object (<code>lr.s</code>), the model parameter shift (<code>ms</code>), and the summary table (<code>db.s</code>).</p>
 <ol style="list-style-type: decimal">
 <li><p>Weighted Binomial Logistic Regression:</p>
@@ -520,9 +520,9 @@ res.wf[[&quot;ms&quot;]]</code></pre>
 <pre class="r"><code>data.frame(mm.woe = res.mm$ms,
            wf.woe = res.wf$ms)</code></pre>
 <pre><code>##                           mm.woe       wf.woe
-## (Intercept)         -0.003060810 -0.002458801
-## Account_Balance.woe  0.006197485  0.005042942
-## Maturity.woe         0.037268152  0.035792762</code></pre>
+## (Intercept)         -0.003133834 -0.002458801
+## Account_Balance.woe  0.006013853  0.005042942
+## Maturity.woe         0.038134273  0.035792762</code></pre>
 <p>The previous simulation runs assumed that WoE is calculated based on the observed data supplied in the <code>db</code> argument. However, practitioners often adjust WoE values during model development for specific bins or modalities of risk factors. The most common example involves adjustments for bins containing missing or special values.</p>
 <p>The <code>ms.pd</code> function accepts a manually supplied WoE table to accommodate this. This table, provided via the <code>woe.tbl</code> argument, undergoes specific checks, so practitioners should prepare it as a data frame with three columns: <code>&quot;rf&quot;</code>, <code>&quot;bin&quot;</code>, and <code>&quot;woe&quot;</code>.</p>
 <p>To demonstrate this feature of the <code>ms.pd</code> function, we first define a function to calculate WoE, apply it to the analyzed risk factors <code>Account_Balance</code> and <code>Maturity</code>, and then manually adjust one of the observed WoE values.</p>
@@ -614,9 +614,9 @@ woe.tbl</code></pre>
 <pre class="r"><code>data.frame(mm.woe = res.mm$ms,
            wf.woe = res.wf$ms)</code></pre>
 <pre><code>##                            mm.woe      wf.woe
-## (Intercept)         -0.0007908939 0.001732708
-## Account_Balance.woe  0.0154189541 0.015969937
-## Maturity.woe         0.0371189774 0.034682209</code></pre>
+## (Intercept)         -0.0009907806 0.001732708
+## Account_Balance.woe  0.0152277011 0.015969937
+## Maturity.woe         0.0368737122 0.034682209</code></pre>
 <p>To conclude this section, let’s run another simulation for the model with multiple risk factors. For this purpose, we will import a new dataset and run the simulation. To align with the design most commonly used in practice, we will opt for <code>&quot;WoE&quot;</code> encoding, while for the data shift, we will use the same scenario as in the previous simulations.</p>
 <pre class="r"><code>#import dataset
 fp &lt;- &quot;https://raw.githubusercontent.com/andrija-djurovic/adsfcr/main/mrm/ms_db_1.csv&quot;
@@ -664,13 +664,13 @@ data.shift</code></pre>
 <pre class="r"><code>data.frame(mm.woe = res.mm$ms,
            wf.woe = res.wf$ms)</code></pre>
 <pre><code>##                                             mm.woe       wf.woe
-## (Intercept)                           -0.006661372 -0.004677474
-## Account_Balance.woe                    0.012746237  0.008321911
-## Duration_of_Credit__month.woe          0.022230188  0.017521925
-## Payment_Status_of_Previous_Credit.woe  0.029643169  0.027173187
-## Purpose.woe                           -0.075207284 -0.068414196
-## Value_Savings_Stocks.woe               0.046837955  0.038668358
-## Length_of_current_employment.woe      -0.171941549 -0.158032535</code></pre>
+## (Intercept)                           -0.007879002 -0.004677474
+## Account_Balance.woe                    0.009043107  0.008321911
+## Duration_of_Credit__month.woe          0.019795531  0.017521925
+## Payment_Status_of_Previous_Credit.woe  0.028813231  0.027173187
+## Purpose.woe                           -0.076852179 -0.068414196
+## Value_Savings_Stocks.woe               0.041006073  0.038668358
+## Length_of_current_employment.woe      -0.172841001 -0.158032535</code></pre>
 </div>
 <div id="future-development" class="section level1" number="6">
 <h1 number="6"><span class="header-section-number">6</span> Future Development</h1>
