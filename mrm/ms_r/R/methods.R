@@ -65,8 +65,8 @@ mm.m <- function(db, target, rf, data.shift, encoding, woe.tbl, lr.i) {
       #model points
       y <- db %>%
            group_by_at(rf) %>%
-           summarise(`1` = round(sum(prob) / nrow(db), 4),
-                     `0` = round(sum(1 - prob) / nrow(db), 4),
+           summarise(`1` = sum(prob) / nrow(db),
+                     `0` = sum(1 - prob) / nrow(db),
                      .groups = "drop") %>%
            as.data.frame()
       #design matrix (N x M)
