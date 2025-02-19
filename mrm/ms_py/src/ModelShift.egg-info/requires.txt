@@ -1,8 +1,0 @@
-numpy
-pandas
-statsmodels
-patsy
-
-[build]
-build
-twine
