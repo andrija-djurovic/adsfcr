@@ -69,5 +69,3 @@ def woe_db_e(db, db_s, rf):
     res = pd.DataFrame({rf_woe[idx]: res[idx] for idx in range(rf_l)})
     
     return res
-
-
