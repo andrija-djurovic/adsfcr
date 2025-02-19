@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+pyproject.toml
+setup.py
+src/ModelShift/__init__.py
+src/ModelShift/checks.py
+src/ModelShift/methods.py
+src/ModelShift/ms.py
+src/ModelShift/utils.py
+src/ModelShift/woe.py
+src/ModelShift.egg-info/PKG-INFO
+src/ModelShift.egg-info/SOURCES.txt
+src/ModelShift.egg-info/dependency_links.txt
+src/ModelShift.egg-info/requires.txt
+src/ModelShift.egg-info/top_level.txt
