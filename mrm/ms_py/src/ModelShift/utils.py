@@ -14,4 +14,3 @@ def ds_dist(db_s, data_shift):
         raise Error("data_shift contains incomplete information.")
     db_s["n_s"] = ns * db_s["n_ds"]
     return db_s
-
