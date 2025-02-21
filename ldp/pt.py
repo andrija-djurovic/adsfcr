@@ -36,7 +36,6 @@ def binom_cum(n, p, k):
 
 #pluto-tasche ldp conservative estimates
 def ldp_pt(n, k, theta, rho, T, cl, N, seed):
-    
     nr = len(n)
     n = [sum(n[i:nr]) for i in range(nr)]
     k = [sum(k[i:nr]) for i in range(nr)]
