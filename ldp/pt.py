@@ -36,14 +36,6 @@ def binom_cum(n, p, k):
 
 #pluto-tasche ldp conservative estimates
 def ldp_pt(n, k, theta, rho, T, cl, N, seed):
-    #n     - number of obligors per rating
-    #k     - number of defaults per rating
-    #theta - year-to-year correlation
-    #rho   - asset correlation
-    #T     - number of years
-    #cl    - confidence level
-    #N     - number of simulations
-    #seed  - random seed
     
     nr = len(n)
     n = [sum(n[i:nr]) for i in range(nr)]
