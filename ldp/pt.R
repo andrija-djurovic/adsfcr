@@ -45,15 +45,6 @@ return(bc)
 
 #pluto-tasche ldp conservative estimates
 ldp.pt <- function(n, k, theta, rho, T, cl, N, seed) {
-      #n     - number of obligors per rating
-      #k     - number of defaults per rating
-      #theta - year-to-year correlation
-      #rho   - asset correlation
-      #T     - number of years
-      #cl    - confidence level
-      #N     - number of simulations
-      #seed  - random seed
-
       nr <- length(n)
       n <- sapply(X = 1:nr,
                   FUN = function(x) sum(n[x:nr]))
