@@ -35,7 +35,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Estimating Probabilities of Default for Low Default Portfolios - Pluto-Tasche Approach (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/pt.pdf)
     - [R code (functions)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/pt.R)
     - [Python code (functions)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/pt.py)
-- [Conservative Estimation of Default Probabilities - Benjamin-Cathcart-Ryan Approach (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/bcr.pdf)
+- [Conservative Estimation of Default Probabilities - Benjamin-Cathcart-Ryan Approach (pdf presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/bcr.pdf)
     - [Simulation dataset](https://andrija-djurovic.github.io/adsfcr/ldp/BCR_TABLES.xlsx)
     - [R code (data & functions)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/bcr.R)
     - [Python code (data & functions)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/bcr.py)
