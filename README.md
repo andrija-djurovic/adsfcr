@@ -80,7 +80,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Marginal Information Value (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/marginal_information_value.pdf)
 
 <b>Business-Guided Regression Designs</b>:
-- Blockwise (modular) Model Design:
+- Blockwise (modular) Model Designs:
     - [Staged Blocks (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/staged_blocks.pdf)
 
 <b>OLS Regression</b>:
