@@ -82,6 +82,7 @@ Below are links providing an overview of the repository's main topics, which inc
 <b>Business-Guided Regression Designs</b>:
 - Blockwise (modular) Model Designs:
     - [Staged Blocks (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/staged_blocks.pdf)
+    - [Embedded Blocks (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/embedded_blocks.pdf)
 
 <b>OLS Regression</b>:
 - [Consequences of Violating the Normality Assumption for OLS Regression (pdf, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/normality.pdf)
