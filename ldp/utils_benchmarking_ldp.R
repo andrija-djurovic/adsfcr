@@ -57,7 +57,3 @@ convolve.p <- function(p, n) {
             }
 return(p.i)
 }
-
-
-
-
