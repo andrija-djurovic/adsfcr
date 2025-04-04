@@ -56,6 +56,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [The Economic Value of Credit Rating Systems - Quantifying the Benefits of Improving an Internal Credit Rating System (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/evrs.pdf)
 - [Heterogeneity Shortfalls in IRB Credit Risk Models - Risk-Weighted Assets Impact Analysis (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/heterogeneity_shortfall_and_rwa_impact_analysis.pdf)
 - [Heterogeneity Shortfalls in IRB Credit Risk Models - Portfolio Returns Impact Analysis (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/heterogeneity_shortfall_and_portfolio_returns.pdf)
+- [Enhancement of Heterogeneity Testing for IRB Models - Statistical Power Analysis (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/heterogeneity_and_power_analysis.pdf)
   
 <b>Model Development and Validation</b>:
 - [Common Inconsistencies in Probability of Default Modeling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/pd_modeling_inconsistencies.pdf)
