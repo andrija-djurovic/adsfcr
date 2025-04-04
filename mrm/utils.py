@@ -29,6 +29,5 @@ def ht_power_s(n1, n2, p1, p2, alpha, sim, seed):
                                           alternative = "smaller")
         res[i] = p_value 
     pwr = np.mean(res < alpha)
-    
     return pwr
 
