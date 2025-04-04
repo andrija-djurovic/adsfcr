@@ -31,4 +31,3 @@ ht.power.s <- function(n1, n2, p1, p2, alpha, sim, seed) {
       pwr <- mean(res < alpha) 
 return(pwr)
 }
-
