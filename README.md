@@ -11,6 +11,9 @@ Moreover, many practitioners entering credit risk modeling often overlook fundam
 
 The repository and books will encompass practical examples utilizing both `R` and `Python`.
 
+The material in this repository is compiled in the Working Notes, accessible through this [link](https://leanpub.com/crmwn). 
+As the repository evolves, the [Working Notes](https://leanpub.com/crmwn) will be updated whenever new content becomes available.
+
 Below are links providing an overview of the repository's main topics, which include summaries from the books and insights gleaned from practical experience.
 
 <b>The Vasicek Distribution (Probability of Default Models)</b>:
