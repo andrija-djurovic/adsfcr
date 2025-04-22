@@ -1,5 +1,8 @@
 # Applied Data Science for Credit Risk
 
+<p align="center">
+<img src="./figures/cover.jpg" alt="cover" width = "70%">
+</p>
 
 This repository is dedicated to my books 📕 [𝐀𝐩𝐩𝐥𝐢𝐞𝐝 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐟𝐨𝐫 𝐂𝐫𝐞𝐝𝐢𝐭 𝐑𝐢𝐬𝐤: 𝗔 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗚𝘂𝗶𝗱𝗲 𝗶𝗻 𝗥 𝗮𝗻𝗱 𝗣𝘆𝘁𝗵𝗼𝗻](https://leanpub.com/adsfcr) and 📕 [𝐏𝐫𝐨𝐛𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐨𝐟 𝐃𝐞𝐟𝐚𝐮𝐥𝐭 𝐑𝐚𝐭𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐑](https://leanpub.com/pdrmwr), as well as other topics related to credit risk modeling. It will be regularly updated with GitHub pages, slides, and PDF documents covering various modeling subjects.
 
