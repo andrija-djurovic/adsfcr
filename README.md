@@ -45,11 +45,11 @@ Below are links providing an overview of the repository's main topics, which inc
     - [Simulation dataset](https://andrija-djurovic.github.io/adsfcr/ldp/BCR_TABLES.xlsx)
     - [R code (data & functions)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/bcr.R)
     - [Python code (data & functions)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/bcr.py)
-- [Benchmarking Low Default Portfolios to Third Party Ratings - Distance-Based Tendency Testing (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/ldp_benchmarking_tendency.pdf)
-- [Benchmarking Low Default Portfolios to Third Party Ratings - Distance-Based Deviation Testing (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/ldp_benchmarking_deviation.pdf)
+- [Benchmarking Low Default Portfolios to Third Party Ratings - Distance-Based Tendency Testing (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/ldp_benchmarking_tendency.pdf)
+- [Benchmarking Low Default Portfolios to Third Party Ratings - Distance-Based Deviation Testing (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/ldp_benchmarking_deviation.pdf)
 
 <b>Measuring Concentration Risk</b>:
-- [Measuring Concentration Risk - A Partial Portfolio Approach (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/concentration_risk/cr.pdf)
+- [Measuring Concentration Risk - A Partial Portfolio Approach (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/concentration_risk/cr.pdf)
 - [Simulation dataset](https://raw.githubusercontent.com/andrija-djurovic/adsfcr/main/concentration_risk/db.csv)
 
 <b>Model Risk Management</b>:
@@ -76,13 +76,14 @@ Below are links providing an overview of the repository's main topics, which inc
 - [The Model-Based Heterogeneity Testing (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/model_based_heterogeneity_testing.pdf)
 - [Risk-Weighted Assets as a Function of Probability of Default (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/rwa_pd.pdf)
 - [Statistical Approach to Third Party Ratings Treatment - Modeling Third Party Ratings Adjustment (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/third_party_rating_treatment.pdf)
-- [Principal Component Analysis for IFRS9 Forward-Looking Modeling (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/pca.pdf)
+- [Principal Component Analysis for IFRS9 Forward-Looking Modeling (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/pca.pdf)
 - [IFRS9 Forward-Looking Modeling and Stationarity Testing - How Reliable Is the Augmented Dickey-Fuller Test? (pdf presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/adf_power.pdf)
-- [IFRS9 Forward-Looking Modeling - OLS Regression and Predictor Importance, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/ols_predictor_importance.pdf)
+- [IFRS9 Forward-Looking Modeling - OLS Regression and Predictor Importance (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/ols_predictor_importance.pdf)
+- [IFRS9 Forward-Looking Modeling - Do We Use OLS Regression Efficiently? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/fli_ols.pdf)
 - [Bootstrap Hypothesis Tests (html, GitHub page)](https://andrija-djurovic.github.io/adsfcr/model_dev_and_vld/bootstrap_ht.html)
 - [Bootstrap Hypothesis Tests (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/bootstrap_ht.pdf)
 - [Statistical Binning of Numeric Risk Factors - PD Modeling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/nrf_binning.pdf)
-- [Statistical Binning and Model Validation - How the Choice of Binning Algorithm Influences Model Validation (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/binning_and_validation.pdf)
+- [Statistical Binning and Model Validation - How the Choice of Binning Algorithm Influences Model Validation (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/binning_and_validation.pdf)
 - [Hosmer-Lemeshow VS Z-score Test on Portfolio Level (html, GitHub slides)](https://andrija-djurovic.github.io/adsfcr/model_dev_and_vld/hl_vs_zscore.html#/)
 - [Hosmer-Lemeshow VS Z-score Test on Portfolio Level (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/hl_vs_zscore.pdf)
 - [Power Play: Probability of Default Predictive Ability Testing (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/statistical_power_of_pd_pp_tests.pdf)
@@ -92,9 +93,9 @@ Below are links providing an overview of the repository's main topics, which inc
 
 <b>Business-Guided Regression Designs</b>:
 - Blockwise (modular) Model Designs:
-    - [Staged Blocks (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/staged_blocks.pdf)
-    - [Embedded Blocks (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/embedded_blocks.pdf)
-    - [Ensemble Blocks (pdf presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/ensemble_blocks.pdf)
+    - [Staged Blocks (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/staged_blocks.pdf)
+    - [Embedded Blocks (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/embedded_blocks.pdf)
+    - [Ensemble Blocks (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/ensemble_blocks.pdf)
 
 <b>OLS Regression</b>:
 - [Consequences of Violating the Normality Assumption for OLS Regression (pdf, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/normality.pdf)
