@@ -14,6 +14,28 @@ The repository and books will encompass practical examples utilizing both `R` an
 The material in this repository is compiled in the Working Notes, accessible through this [link](https://leanpub.com/crmwn). 
 As the repository evolves, the [Working Notes](https://leanpub.com/crmwn) will be updated whenever new content becomes available.
 
+Please follow the citation format provided below to cite this GitHub repository for your references, research, or academic work. 
+When citing within your text, use the author's last name along with the publication year, like this: 
+```{code}
+(Djurovic, 2024). 
+```
+In your bibliography or reference list, use the following citation style: 
+```{code}
+Djurovic, Andrija. (2024). Applied Data Science for Credit Risk. 
+GitHub. https://github.com/andrija-djurovic/adsfcr
+```
+Or use the following BibTeX entry:
+```{code}
+@misc{djurovicadsfcr,
+ title     = {Applied Data Science for Credit Risk},
+ author    = {Andrija Djurovic},
+ publisher = {\url{https://github.com/andrija-djurovic/adsfcr}},
+ year      = {2024},
+ note      = {Accessed: yyyy-mm-dd}
+}
+```
+Please note that each book has its own proposed reference format.
+
 Below are links providing an overview of the repository's main topics, which include summaries from the books and insights gleaned from practical experience.
 
 <b>The Vasicek Distribution (Probability of Default Models)</b>:
