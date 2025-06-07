@@ -22,7 +22,7 @@ When citing within your text, use the author's last name along with the publicat
 In your bibliography or reference list, use the following citation style: 
 ```{code}
 Djurovic, Andrija. (2024). Applied Data Science for Credit Risk. 
-GitHub. https://github.com/andrija-djurovic/adsfcr
+GitHub. https://github.com/andrija-djurovic/adsfcr (Accessed: yyyy-mm-dd))
 ```
 Or use the following BibTeX entry:
 ```{code}
