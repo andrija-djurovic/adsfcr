@@ -17,11 +17,11 @@ As the repository evolves, the [Working Notes](https://leanpub.com/crmwn) will b
 Please follow the citation format provided below to cite this GitHub repository for your references, research, or academic work. 
 When citing within your text, use the author's last name along with the publication year, like this: 
 ```{code}
-(Djurovic, 2024). 
+(Djurovic, 2025). 
 ```
 In your bibliography or reference list, use the following citation style: 
 ```{code}
-Djurovic, Andrija. (2024). Applied Data Science for Credit Risk. 
+Djurovic, Andrija. (2025). Applied Data Science for Credit Risk. 
 GitHub. https://github.com/andrija-djurovic/adsfcr (Accessed: yyyy-mm-dd))
 ```
 Or use the following BibTeX entry:
@@ -30,7 +30,7 @@ Or use the following BibTeX entry:
  title     = {Applied Data Science for Credit Risk},
  author    = {Andrija Djurovic},
  publisher = {\url{https://github.com/andrija-djurovic/adsfcr}},
- year      = {2024},
+ year      = {2025},
  note      = {Accessed: yyyy-mm-dd}
 }
 ```
