@@ -119,6 +119,8 @@ Below are links providing an overview of the repository's main topics, which inc
     - [Staged Blocks (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/staged_blocks.pdf)
     - [Embedded Blocks (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/embedded_blocks.pdf)
     - [Ensemble Blocks (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/ensemble_blocks.pdf)
+- Constrained Threshold Logistic Regression:
+    - [Statistical Approach to Third Party Ratings Treatment (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/constrained_threshold_lr.pdf)
 
 <b>OLS Regression</b>:
 - [Consequences of Violating the Normality Assumption for OLS Regression (pdf, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/normality.pdf)
