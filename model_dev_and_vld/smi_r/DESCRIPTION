@@ -1,0 +1,19 @@
+Package: smi
+Title: Supervised Macroeconomic Index for IFRS9 Forward-Looking Modeling
+Version: 0.0.0.1
+Authors@R: 
+ c(person(given = "Andrija",
+             family = "Djurovic",
+             role = c("aut", "cre"),
+             email = "djandrija@gmail.com")
+      )
+Maintainer: Andrija Djurovic <djandrija@gmail.com>
+Description: The package offers functionalities for constructing the Supervised Macroeconomic Index, which can be used in IFRS9 forward-looking modeling to address some of the most challenging issues practitioners encounter during this process. These challenges primarily arise from the limited number of available observations.
+License: GPL (>= 3)
+URL: https://github.com/andrija-djurovic/adsfcr
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: dplyr,
+	 R (>= 2.10)
