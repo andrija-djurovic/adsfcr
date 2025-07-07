@@ -72,8 +72,9 @@ Below are links providing an overview of the repository's main topics, which inc
 
 <b>Measuring Concentration Risk</b>:
 - [Measuring Concentration Risk - A Partial Portfolio Approach (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/concentration_risk/cr.pdf)
-- [Simulation dataset](https://raw.githubusercontent.com/andrija-djurovic/adsfcr/main/concentration_risk/db.csv)
-
+    - [Simulation dataset](https://raw.githubusercontent.com/andrija-djurovic/adsfcr/main/concentration_risk/db.csv)
+- [On Testing the Concentration in the Rating Grades - The Initial and Periodic PD Model Validation (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/hi_cv_testing.pdf)
+  
 <b>Model Risk Management</b>:
 - [Model Shift and Model Risk Management (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/ms_mrm.pdf)
 - [The Instability of WoE Encoding in PD Modeling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/pd_and_woe_encoding_instability.pdf)
@@ -94,7 +95,6 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Margin of Conservatism Type C in PD Modeling - Central Tendency Uncertainty in the Presence of Autocorrelation (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/moc_type_c_ct_autocorrelation.pdf)
 - [Time Series Analysis in Credit Risk Modeling - OLS vs Yule-Walker Estimator for Autoregressive Coefficients (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/aet.pdf)
 - [Hypothesis Testing in Credit Risk - A Visual Approach for Deeper Understanding (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/visual_support_for_ht.pdf)
-- [On Testing the Concentration in the Rating Grades - The Initial and Periodic PD Model Validation (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/hi_cv_testing.pdf)
 - [The Binomial Tests for PD Model Validation - The Independent and Correlated Binomial Distributions (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/independent_correlated_binomial_test.pdf)
 - [The Model-Based Heterogeneity Testing (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/model_based_heterogeneity_testing.pdf)
 - [Risk-Weighted Assets as a Function of Probability of Default (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/rwa_pd.pdf)
