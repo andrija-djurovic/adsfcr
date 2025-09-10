@@ -12,7 +12,7 @@ Moreover, many practitioners entering credit risk modeling often overlook fundam
 The repository and books will encompass practical examples utilizing both `R` and `Python`.
 
 The material in this repository is compiled in the Working Notes, accessible through this [link](https://leanpub.com/crmwn). 
-As the repository evolves, the [Working Notes](https://leanpub.com/crmwn) will be updated whenever new content becomes available.
+As the repository evolves, the 📕 [Working Notes](https://leanpub.com/crmwn) will be updated whenever new content becomes available.
 
 Please follow the citation format provided below to cite this GitHub repository for your references, research, or academic work. 
 When citing within your text, use the author's last name along with the publication year, like this: 
