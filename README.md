@@ -52,6 +52,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [The Vasicek LGD Model - The Functional Form and Parameters Estimation Method (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/lgd/vasicek_lgd.pdf)
 - [The Vasicek LGD Model - Simulating the Distribution of the Parameters (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/lgd/vasicek_lgd_params_dist.pdf)
 - [The Vasicek LGD Model - The Bias Quantification of the Sensitivity Parameter (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/lgd/vasicek_lgd_q_bias_quant.pdf)
+- [Enhancing IRB LGD Modeling with Survival Analysis - A Framework for Extrapolating Incomplete Recoveries (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/lgd/lgd_survival.pdf)
 
 <b>Low Default Portfolios</b>:
 - [Likelihood Approaches to Low Default Portfolios - Andrija Djurovic's Adjustment of Alan Forrest's Method to the Multi-Year Period Design: PD Domain Search Approach (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/ldp_adj_af_adjustment.pdf)
