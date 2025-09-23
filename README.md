@@ -105,6 +105,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [IFRS9 Forward-Looking Modeling - OLS Regression and Predictor Importance (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/ols_predictor_importance.pdf)
 - [IFRS9 Forward-Looking Modeling - Do We Use OLS Regression Efficiently? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/fli_ols.pdf)
 - [IFRS9 Forward-Looking Modeling - Dynamic Regression Models and Estimation Uncertainty (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/fli_dynamic_regression_models.pdf)
+- [IFRS9 Forward-Looking Modeling - Recursive Regressions in Practice (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/fli_recursive_reg.pdf)
 - [Bootstrap Hypothesis Tests (html, GitHub page)](https://andrija-djurovic.github.io/adsfcr/model_dev_and_vld/bootstrap_ht.html)
 - [Bootstrap Hypothesis Tests (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/bootstrap_ht.pdf)
 - [Statistical Binning of Numeric Risk Factors - PD Modeling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/nrf_binning.pdf)
