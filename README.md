@@ -117,6 +117,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Marginal Information Value (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/marginal_information_value.pdf)
 - [Scorecard Scaling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/scorecard_scaling.pdf)
 - [Level Importance of Risk Factors in PD Modeling - WoE Regression and Scorecard Scaling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/woe_level_importance.pdf)
+- [WoE Regression for PD Modeling - Intercept Estimation Uncertainty (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/woe_reg_intercept.pdf)
 
 <b>Business-Guided Regression Designs</b>:
 - Blockwise (modular) Model Designs:
