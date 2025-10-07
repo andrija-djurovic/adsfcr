@@ -84,6 +84,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Heterogeneity Shortfalls in IRB Credit Risk Models - Risk-Weighted Assets Impact Analysis (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/heterogeneity_shortfall_and_rwa_impact_analysis.pdf)
 - [Heterogeneity Shortfalls in IRB Credit Risk Models - Portfolio Returns Impact Analysis (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/heterogeneity_shortfall_and_portfolio_returns.pdf)
 - [Enhancement of Heterogeneity Testing for IRB Models - Statistical Power Analysis (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/heterogeneity_and_power_analysis.pdf)
+- [Enhancement of Heterogeneity Testing for IRB Models - Analysis of the Disruption of Monotonicity in the Rating Scale (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/tree/main/mrm)
 - [Heterogeneity and Homogeneity Testing in IRB LGD/EAD Models - Is the Mann–Whitney U Test Compliant with Regulatory Requirements? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/welch_t_vs_mw_test.pdf)
 - [Heterogeneity Testing in IRB Models - When the P-Value > 50% is Informative (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/heterogeneity_and_p_value.pdf)
   
