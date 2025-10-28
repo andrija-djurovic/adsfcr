@@ -103,6 +103,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Risk-Weighted Assets as a Function of Probability of Default (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/rwa_pd.pdf)
 - [Statistical Approach to Third Party Ratings Treatment - Modeling Third Party Ratings Adjustment (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/third_party_rating_treatment.pdf)
 - [Principal Component Analysis for IFRS9 Forward-Looking Modeling (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/pca.pdf)
+- [IFRS9 Forward-Looking Modeling - Supervised Macroeconomic Index (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/fli_smi.pdf)
 - [IFRS9 Forward-Looking Modeling and Stationarity Testing - How Reliable Is the Augmented Dickey-Fuller Test? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/adf_power.pdf)
 - [IFRS9 Forward-Looking Modeling - OLS Regression and Predictor Importance (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/ols_predictor_importance.pdf)
 - [IFRS9 Forward-Looking Modeling - Do We Use OLS Regression Efficiently? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/fli_ols.pdf)
