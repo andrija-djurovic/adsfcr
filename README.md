@@ -88,6 +88,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Enhancement of Heterogeneity Testing for IRB Models - Analysis of the Disruption of Monotonicity in the Rating Scale (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/heterogeneity_and_monotonicity.pdf)
 - [Heterogeneity and Homogeneity Testing in IRB LGD/EAD Models - Is the Mann–Whitney U Test Compliant with Regulatory Requirements? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/welch_t_vs_mw_test.pdf)
 - [Heterogeneity Testing in IRB Models - When the P-Value > 50% is Informative (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/heterogeneity_and_p_value.pdf)
+- [Rethinking Representativeness Analysis in IRB Modeling - Classifier Two-Sample Test (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/representativeness_c2st.pdf)
   
 <b>Model Development and Validation</b>:
 - [Common Inconsistencies in Probability of Default Modeling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/pd_modeling_inconsistencies.pdf)
