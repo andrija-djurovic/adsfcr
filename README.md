@@ -92,6 +92,8 @@ Below are links providing an overview of the repository's main topics, which inc
   
 <b>Model Development and Validation</b>:
 - [Common Inconsistencies in Probability of Default Modeling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/pd_modeling_inconsistencies.pdf)
+ - [WoE Regression for PD Modeling - Intercept Estimation Uncertainty (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/woe_reg_intercept.pdf)
+ - [OLS Regression in IRB Credit Risk Modeling - From Binary to Continuous: A WoE-Equivalent Encoding Method (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/cont_target_woe_equivalent.pdf)
 - [IRB PD Periodic Model Validation - Quantitative Testing Procedures (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/periodic_pd_vld.pdf)
 - [IRB Model Validation - Technical Aspects of Automated Reports (pdf,`R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/vld_report_example.pdf)
 - [Validation of Credit Risk Models - Does the P-value Provides Sufficient Insight? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/vld_and_p_value.pdf)
@@ -122,7 +124,6 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Marginal Information Value (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/marginal_information_value.pdf)
 - [Scorecard Scaling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/scorecard_scaling.pdf)
 - [Level Importance of Risk Factors in PD Modeling - WoE Regression and Scorecard Scaling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/woe_level_importance.pdf)
-- [WoE Regression for PD Modeling - Intercept Estimation Uncertainty (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/woe_reg_intercept.pdf)
 
 <b>Business-Guided Regression Designs</b>:
 - Blockwise (modular) Model Designs:
