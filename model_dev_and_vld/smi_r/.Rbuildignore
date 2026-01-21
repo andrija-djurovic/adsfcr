@@ -1,4 +1,3 @@
 ^LICENSE\.md$
 ^db_smi_package\.csv$
-^Manual\.pdf$
-^Manual\.html$
+^smi_r_manual.Rmd\.pdf$
