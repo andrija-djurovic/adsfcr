@@ -109,6 +109,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Statistical Approach to Third Party Ratings Treatment - Modeling Third Party Ratings Adjustment (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/third_party_rating_treatment.pdf)
 - [Principal Component Analysis for IFRS9 Forward-Looking Modeling (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/pca.pdf)
 - [IFRS9 Forward-Looking Modeling - Supervised Macroeconomic Index (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/fli_smi.pdf)
+- [Supervised Macroeconomic Index for IFRS9 Forward-Looking Modeling - The `R` Package `smi` (pdf, manual, `R` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/smi_r/smi_r_manual.pdf)
 - [IFRS9 Forward-Looking Modeling and Stationarity Testing - How Reliable Is the Augmented Dickey-Fuller Test? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/adf_power.pdf)
 - [IFRS9 Forward-Looking Modeling - OLS Regression and Predictor Importance (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/ols_predictor_importance.pdf)
 - [IFRS9 Forward-Looking Modeling - Do We Use OLS Regression Efficiently? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/fli_ols.pdf)
