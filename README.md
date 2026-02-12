@@ -130,7 +130,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Level Importance of Risk Factors in PD Modeling - WoE Regression and Scorecard Scaling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/woe_level_importance.pdf)
 
 <b>Risk Quantification</b>:
-- [Calibration of Discrete PD Rating Scale - From Segment Default Averages to Grade-Level Estimates (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/pd_drs_calibration.pdf)
+- [Calibration of Discrete PD Rating Scale - From Segment Default Averages to Grade-Level Estimates (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/pd_drs_calibration.pdf)
 
 <b>Business-Guided Regression Designs</b>:
 - Blockwise (modular) Model Designs:
