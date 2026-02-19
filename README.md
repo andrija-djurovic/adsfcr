@@ -91,7 +91,8 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Heterogeneity Shortfalls in IRB Credit Risk Models - Risk-Weighted Assets Impact Analysis (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/heterogeneity_shortfall_and_rwa_impact_analysis.pdf)
 - [Heterogeneity Shortfalls in IRB Credit Risk Models - Portfolio Returns Impact Analysis (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/heterogeneity_shortfall_and_portfolio_returns.pdf)
 - [Rethinking Representativeness Analysis in IRB Modeling - Classifier Two-Sample Test (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/representativeness_c2st.pdf)
-- [Somers’ D for Discriminatory Power in LGD and EAD Models: D<sub>yx</sub> or D<sub>xy</sub>? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/lgd_ccf_dp_somersd_dxy_dyx.pdf)
+- [Somers’ D for Discriminatory Power in LGD and EAD Models - D<sub>yx</sub> or D<sub>xy</sub>? (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/lgd_ccf_dp_somersd_dxy_dyx.pdf)
+- [Somers’ D in LGD and EAD Modeling - Impact of Input Binning on Discriminatory Power (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/lgd_ead_dp_somersd_and_binning.pdf)
   
 <b>Model Development and Validation</b>:
 - [Common Inconsistencies in Probability of Default Modeling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/pd_modeling_inconsistencies.pdf)
