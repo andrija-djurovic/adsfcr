@@ -132,6 +132,7 @@ Below are links providing an overview of the repository's main topics, which inc
 
 <b>Risk Quantification and Backtesting</b>:
 - [Calibration of Discrete PD Rating Scale - From Segment Default Averages to Grade-Level Estimates (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/pd_drs_calibration.pdf)
+- [A Model-Based Approach to Discrete PD Rating Scale Calibration - Logistic Regression Intercept Optimization (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/model_based_pd_calibration_intercept.pdf)
 - [Quantification of MoC Type C in PD Models - Statistical Challenges in Reconciling Regulatory Requirements (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/pd_moc_c_egim_para_327.pdf)
 
 <b>Business-Guided Regression Designs</b>:
