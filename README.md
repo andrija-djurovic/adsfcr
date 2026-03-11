@@ -144,6 +144,7 @@ Below are links providing an overview of the repository's main topics, which inc
     - [Statistical Approach to Third Party Ratings Treatment (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/bgrd/constrained_threshold_lr.pdf)
 
 <b>OLS Regression</b>:
+- [Encoding Categorical Risk Factors in IRB LGD and EAD Models - A Comparison of Ordinal, One-Hot and Nested Dummy Approaches in Linear Regression (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/ols_and_rf_encoding.pdf)
 - [Consequences of Violating the Normality Assumption for OLS Regression (pdf, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/normality.pdf)
 - [Consequences of Heteroscedasticity for OLS Regression  (pdf, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/heteroscedasticity.pdf)
 - [Consequences of Multicollinearity for OLS Regression  (pdf, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ols/multicollinearity.pdf)
