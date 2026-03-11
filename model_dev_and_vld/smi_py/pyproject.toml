@@ -21,9 +21,3 @@ build = ["build", "twine"]
 
 [project.urls]
 repository = "https://github.com/andrija-djurovic/adsfcr"
-
-[tool.setuptools]
-package-dir = {"" = "src"}
-
-[tool.setuptools.packages.find]
-where = ["src"]
