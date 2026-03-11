@@ -1,0 +1,24 @@
+[build-system]
+requires      = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "smi"
+version = "0.0.1"
+description = "Supervised Macroeconomic Index (SMI) for IFRS9 Forward-Looking Modeling"
+readme = "smi_py_manual.pdf"
+authors = [{ name = "Andrija Djurovic", email = "djandrija@gmail.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+dependencies = ["numpy", "pandas", "scipy", "itertools"]
+requires-python = ">=3.0"
+
+[project.optional-dependencies]
+build = ["build", "twine"]
+
+[project.urls]
+repository = "https://github.com/andrija-djurovic/adsfcr"
