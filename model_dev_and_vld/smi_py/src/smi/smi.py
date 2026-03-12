@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 def smi(models, db, weights):
     um = models["model.id"].nunique()  
@@ -19,4 +20,5 @@ def smi(models, db, weights):
     return {"smi": smi_values,
             "coef": ca_s,
             "weights": weights_table}
+
 
