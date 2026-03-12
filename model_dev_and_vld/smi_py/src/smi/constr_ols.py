@@ -17,7 +17,6 @@ def constr_ols(db, target, predictors, lower, upper, weights):
     upper = np.concatenate(([np.inf], upper))
     cc = np.isfinite(np.column_stack([y, X])).all(axis = 1)
 
-    #initial values
     db_i = pd.DataFrame(np.column_stack([y, X]),
                         columns = ["y"] + list(range(X.shape[1])))
     db_i = db_i[cc]
@@ -66,10 +65,8 @@ def model_est(gr_c, ps, db, target, weights):
     for i in range(smi_r):
         predi_i = list(gr_c[i])
 
-        #predictor name
         pred_n = pd.Series(predi_i).str.replace(r"_lag[1-4]$", "", regex = True).values
 
-        #lower and upper bounds
         lower = []
         upper = []
         for j in range(len(pred_n)):

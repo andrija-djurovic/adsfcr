@@ -1,7 +1,7 @@
 """
-SMI - Supervised Macroeconomic Index for IFRS9 Forward-Looking Modeling
+Supervised Macroeconomic Index for IFRS9 Forward-Looking Modeling
 
-Python package for constructing Supervised Macroeconomic Indices
+Python package for constructing Supervised Macroeconomic Index
 for use in IFRS9 forward-looking modeling.
 
 Author: Andrija Djurovic (R version), Python translation
