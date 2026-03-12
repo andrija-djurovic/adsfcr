@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 from scipy.optimize import minimize
 
+from .utils import get_lag
+
 #ssq function
 def ssq(beta_coef, X, y, weights):
     resid = y - X @ beta_coef
@@ -108,3 +110,4 @@ def model_est(gr_c, ps, db, target, weights):
     res = pd.concat(res, ignore_index=True)
 
     return {"models": res, "pred": pred}
+
