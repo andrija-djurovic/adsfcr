@@ -138,6 +138,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Quantification of MoC Type C in PD Models - Statistical Challenges in Reconciling Regulatory Requirements (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/pd_moc_c_egim_para_327.pdf)
 - [Quantification of MoC Type C in PD Models - On the Aggregate Effect of Regulatory Requirements on Conservatism Levels (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/pd_moc_c_egim_impact.pdf)
 - [Backtesting Probability of Default Models - The Two-Sided Exact Binomial Test (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/2_sided_exact_binomial_test.pdf)
+- [Backtesting Probability of Default Models - On the Reliability of the Multi-Period Normal Test (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/nt_type_I_error.pdf)
 
 <b>Business-Guided Regression Designs</b>:
 - Blockwise (modular) Model Designs:
