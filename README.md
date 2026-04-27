@@ -106,7 +106,6 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Margin of Conservatism Type C in PD Modeling - Central Tendency Uncertainty in the Presence of Autocorrelation (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/moc_type_c_ct_autocorrelation.pdf)
 - [Time Series Analysis in Credit Risk Modeling - OLS vs Yule-Walker Estimator for Autoregressive Coefficients (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/aet.pdf)
 - [Hypothesis Testing in Credit Risk - A Visual Approach for Deeper Understanding (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/visual_support_for_ht.pdf)
-- [The Binomial Tests for PD Model Validation - The Independent and Correlated Binomial Distributions (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/independent_correlated_binomial_test.pdf)
 - [The Model-Based Heterogeneity Testing (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/model_based_heterogeneity_testing.pdf)
 - [Risk-Weighted Assets as a Function of Probability of Default (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/rwa_pd.pdf)
 - [Statistical Approach to Third Party Ratings Treatment - Modeling Third Party Ratings Adjustment (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/third_party_rating_treatment.pdf)
@@ -139,6 +138,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Quantification of MoC Type C in PD Models - On the Aggregate Effect of Regulatory Requirements on Conservatism Levels (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/pd_moc_c_egim_impact.pdf)
 - [Backtesting Probability of Default Models - The Two-Sided Exact Binomial Test (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/2_sided_exact_binomial_test.pdf)
 - [Backtesting Probability of Default Models - On the Reliability of the Multi-Period Normal Test (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/nt_type_I_error.pdf)
+- [The Binomial Tests for PD Model Validation - The Independent and Correlated Binomial Distributions (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/independent_correlated_binomial_test.pdf)
 
 <b>Business-Guided Regression Designs</b>:
 - Blockwise (modular) Model Designs:
