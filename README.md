@@ -130,6 +130,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Marginal Information Value (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/marginal_information_value.pdf)
 - [Scorecard Scaling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/scorecard_scaling.pdf)
 - [Level Importance of Risk Factors in PD Modeling - WoE Regression and Scorecard Scaling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/woe_level_importance.pdf)
+- [Risk Factor Engineering in PD Models - Tree-Based Interactions (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/rf_engineering_in_pd_models_tb_interactions.pdf)
 
 <b>Risk Quantification and Backtesting</b>:
 - [Calibration of Discrete PD Rating Scale - From Segment Default Averages to Grade-Level Estimates (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/pd_drs_calibration.pdf)
