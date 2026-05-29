@@ -141,6 +141,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Backtesting PD Models - On the Reliability of the Multi-Period Normal Test (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/nt_type_I_error.pdf)
 - [The Binomial Tests for PD Model Validation - The Independent and Correlated Binomial Distributions (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/independent_correlated_binomial_test.pdf)
 - [Backtesting PD Models - The Multi-Period Average Testing (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/multi_period_average_pd_backtesting.pdf)
+- [Backtesting PD Models - On the Statistical Validity of Multi-Period Backtesting Methods (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/multi_period_pd_backtesting_p_value_dist.pdf)
 
 <b>Business-Guided Regression Designs</b>:
 - Blockwise (modular) Model Designs:
