@@ -140,8 +140,8 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Quantification of MoC Type C in PD Models - On the Aggregate Effect of Regulatory Requirements on Conservatism Levels (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/pd_moc_c_egim_impact.pdf)
 - [PD MoC Type C Quantification - The `R` Package `pd.moc.c` (pdf, manual, `R` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/pd_moc/r/pd_moc_c_r_manual.pdf)
 - [Backtesting PD Models - The Two-Sided Exact Binomial Test (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/2_sided_exact_binomial_test.pdf)
-- [Backtesting PD Models - On the Reliability of the Multi-Period Normal Test (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/nt_type_I_error.pdf)
 - [The Binomial Tests for PD Model Validation - The Independent and Correlated Binomial Distributions (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/independent_correlated_binomial_test.pdf)
+- [Backtesting PD Models - On the Reliability of the Multi-Period Normal Test (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/nt_type_I_error.pdf)
 - [Backtesting PD Models - The Multi-Period Average Testing (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/multi_period_average_pd_backtesting.pdf)
 - [Backtesting PD Models - On the Statistical Validity of Multi-Period Backtesting Methods (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/multi_period_pd_backtesting_p_value_dist.pdf)
 
