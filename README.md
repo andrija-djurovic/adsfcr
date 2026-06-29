@@ -36,7 +36,7 @@ Or use the following BibTeX entry:
 ```
 Please note that each book has its own proposed reference format.
 
-Below are links providing an overview of the repository's main topics, which include summaries from the books and insights gleaned from practical experience. The views expressed in these publications are the author’s own and do not necessarily reflect those of the employer.
+Below are links providing an overview of the repository's main topics, which include summaries from the books and insights gleaned from practical experience. _The views expressed in these publications are the author’s own and do not necessarily reflect those of the employer_.
 
 <b>The Vasicek Distribution (Probability of Default Models)</b>:
 - [The Functional Form and Parameters Estimation Methods (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/vasicek_distribution/vasicek_distribution.pdf)
