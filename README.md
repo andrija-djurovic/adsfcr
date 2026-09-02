@@ -72,6 +72,7 @@ Below are links providing an overview of the repository's main topics, which inc
     - [Python code (data & functions)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/bcr.py)
 - [Benchmarking Low Default Portfolios to Third Party Ratings - Distance-Based Tendency Testing (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/ldp_benchmarking_tendency.pdf)
 - [Benchmarking Low Default Portfolios to Third Party Ratings - Distance-Based Deviation Testing (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/ldp_benchmarking_deviation.pdf)
+- [Assessing Ranking Ability in Low Default Portfolio Models - A Tendency-Based Metric Framework (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/ldp/ldp_dp.pdf)
 
 <b>Measuring Concentration Risk</b>:
 - [Measuring Concentration Risk - A Partial Portfolio Approach (pdf, presentation, `R` & `Python` code)](https://github.com/andrija-djurovic/adsfcr/blob/main/concentration_risk/cr.pdf)
