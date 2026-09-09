@@ -147,6 +147,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Backtesting PD Models - On the Statistical Validity of Multi-Period Average Backtesting Methods (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/multi_period_average_pd_backtesting_p_value_dist.pdf)
 - [Multi-Period Average Backtesting PD Models - Sensitivity of the Z-Score Test to Serial Correlation in Default Rates (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/multi_period_average_pd_backtesting_sensitivity_to_serial_correlation.pdf)
 - [Backtesting PD Models - The Multi-Period Average Testing in the Presence of Serial Correlation in Observed Default Rates (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/multi_period_average_pd_backtesting_and_correlated_odrs.pdf)
+- [LGD Backtesting under Discrete Rating Scales - Revisiting the Statistical Assumptions of Standard ECB Validation Procedures (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/ecb_instructions_lgd_ccf_backtesting.pdf)
 
 <b>Business-Guided Regression Designs</b>:
 - Blockwise (modular) Model Designs:
