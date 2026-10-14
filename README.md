@@ -97,6 +97,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Somers’ D in LGD and EAD Modeling - Impact of Input Binning on Discriminatory Power (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/lgd_ead_dp_somersd_and_binning.pdf)
 - [Somers’ D in LGD and EAD Modeling - Impact of Conservatism on Discriminatory Power (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/lgd_ead_somersd_and_conservatism.pdf)
 - [ECB Instructions for Reporting the Validation Results of Internal Models - Methodological Reflections and Opportunities for Further Enhancement (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/ecb_irb_instructions_for_reporting_the_validation_results.pdf)
+- [Probability of Default Modeling - Effects of Serial Correlation in Observed Default Rates (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/mrm/pd_models_and_correlated_odrs.pdf)
   
 <b>Model Development and Validation</b>:
 - [Common Inconsistencies in Probability of Default Modeling (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/model_dev_and_vld/pd_modeling_inconsistencies.pdf)
