@@ -1,7 +1,8 @@
 # Applied Data Science for Credit Risk
 *A practical knowledge hub for credit risk modeling, statistical methods, and model validation.*
-[![IRB](https://img.shields.io/badge/IRB-Framework-0F766E)](#)
-[![IFRS 9](https://img.shields.io/badge/IFRS9-Accounting-7C3AED)](#)
+
+[![IRB](https://img.shields.io/badge/IRB-0F766E)](#)
+[![IFRS 9](https://img.shields.io/badge/IFRS9-7C3AED)](#)
 [![PD](https://img.shields.io/badge/PD-Modeling-2563EB)](#)
 [![LGD](https://img.shields.io/badge/LGD-Modeling-D97706)](#)
 [![EAD](https://img.shields.io/badge/EAD-Modeling-0891B2)](#)
