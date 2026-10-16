@@ -6,8 +6,8 @@
 [![PD](https://img.shields.io/badge/PD-Modeling-2563EB)](#)
 [![LGD](https://img.shields.io/badge/LGD-Modeling-D97706)](#)
 [![EAD](https://img.shields.io/badge/EAD-Modeling-0891B2)](#)
-[![R](https://img.shields.io/badge/R-Language-276DC3?logo=r&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-Language-3776AB?logo=python&logoColor=white)](#)
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 
 <p align="center">
 <img src="./figures/cover.jpg" alt="cover" width = "70%">
