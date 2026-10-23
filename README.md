@@ -47,6 +47,23 @@ Please note that each book has its own proposed reference format.
 
 Below are links providing an overview of the repository's main topics, which include summaries from the books and insights gleaned from practical experience. _The views expressed in these publications are the author’s own and do not necessarily reflect those of the employer_.
 
+## 🔎 Find a Topic or Presentation
+
+Looking for a specific subject? Use your browser's search function
+(`Ctrl+F` on Windows/Linux or `Cmd+F` on macOS), or
+[search the repository](https://github.com/andrija-djurovic/adsfcr/search).
+
+### Browse by Category
+
+- [Probability of Default — Vasicek Distribution](#the-vasicek-distribution-probability-of-default-models)
+- [Loss Given Default (LGD)](#loss-given-default)
+- [Low Default Portfolios (LDP)](#low-default-portfolios)
+- [Concentration Risk](#measuring-concentration-risk)
+- [Model Risk Management](#model-risk-management)
+- [Model Development and Validation](#model-development-and-validation)
+- [Effective Interest Rate](#effective-interest-rate)
+- [Loan Repayment Plan](#loan-repayment-plan)
+
 <b>The Vasicek Distribution (Probability of Default Models)</b>:
 - [The Functional Form and Parameters Estimation Methods (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/vasicek_distribution/vasicek_distribution.pdf)
 - [Shiny Application for Estimating the Parameters of the Vasicek Distribution](https://andrijadj.shinyapps.io/vasicek_distribution/)
