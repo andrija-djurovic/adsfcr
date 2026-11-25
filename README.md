@@ -165,6 +165,7 @@ Below are links providing an overview of the repository's main topics, which inc
 - [Backtesting PD Models - The Multi-Period Average Testing in the Presence of Serial Correlation in Observed Default Rates (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/multi_period_average_pd_backtesting_and_correlated_odrs.pdf)
 - [Backtesting PD Models - From Homogeneous Grades to Heterogeneous Portfolios (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/from_homogeneous_grades_to_heterogeneous_portfolios.pdf)
 - [Backtesting PD Models - Adjusting the Z-Score Test for Portfolio Heterogeneity (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/pd_backtesting_portfolio_adjusted_z_score_test.pdf)
+- [Equivalence Testing in Credit Risk Models - Two One-Sided Tests (TOST) (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/equivalence_testing_in_credit_risk.pdf)
 - [LGD Backtesting under Discrete Rating Scales - Revisiting the Statistical Assumptions of Standard ECB Validation Procedures (pdf, presentation)](https://github.com/andrija-djurovic/adsfcr/blob/main/risk_quantification/ecb_instructions_lgd_ccf_backtesting.pdf)
 
 <b>Business-Guided Regression Designs</b>:
